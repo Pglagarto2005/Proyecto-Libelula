@@ -5,11 +5,12 @@ TagManager:
   serializedVersion: 3
   tags:
   - Anchor
+  - Focusable
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - focusableLayer
   - Water
   - UI
   - 
